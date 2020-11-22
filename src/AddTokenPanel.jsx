@@ -14,7 +14,7 @@ import { Link } from 'react-router-dom'
 import logo from './coin.jpg';
 import queryString from 'querystringify'
 
-const fDAIAddress = '0x007e383bf3c3ffa12a5de06a53bab103335eff28';
+const fDAIAddress = '0xab7FA2B2985BCcfC13c6D86b1D5A17486ab1e04C';
 
 class AddTokenPanel extends Component {
 
